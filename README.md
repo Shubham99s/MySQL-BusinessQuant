@@ -2,11 +2,12 @@
 
 #Created APIs by import the excel data to local MySQL database
 
-#Instruction
--npm install
--node index.js
+#Instruction#
+{-npm install
+-node index.js}
 
-#API/Routes
+#API/Routes#
+
 -Route to get all company data
   localhost:5000/get_all
   
